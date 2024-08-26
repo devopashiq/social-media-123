@@ -12,8 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://social-media-123.pages.dev/
-
+- Live Site URL: [https://social-media-1238.pages.dev/]
 ## My process
 
 ### Built with
